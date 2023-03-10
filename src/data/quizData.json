@@ -1,0 +1,174 @@
+[
+  {
+      "id": "1",
+      "question": "Javascript is a _____ language?",
+      "options": [
+          {"answer": "Programming", 
+           "isCorrect": false },
+
+          {"answer": "Application", 
+           "isCorrect": false },
+          
+          {"answer": "Scripting", 
+           "isCorrect": true }, 
+
+          {"answer": "None of the above", 
+           "isCorrect": false }
+      ]
+  },
+  {
+      "id": "2",
+      "question": "Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?",
+      "options": [
+          {"answer": "toExponential", 
+           "isCorrect": false },
+
+          {"answer": "toFixed", 
+           "isCorrect": true },
+          
+          {"answer": "toPrecision", 
+           "isCorrect": false }, 
+
+          {"answer": "toLocalString", 
+           "isCorrect": false }
+      ]
+  },
+  {
+      "id": "3",
+      "question": "Which of the following function of Array object returns a string representing the array and its elements?",
+      "options": [
+          {"answer": "toSource", 
+           "isCorrect": false },
+
+          {"answer": "toSort", 
+           "isCorrect": false },
+          
+          {"answer": "toSplice", 
+           "isCorrect": false }, 
+
+          {"answer": "toString", 
+           "isCorrect": true }
+      ]
+  },
+  {
+      "id":"4",
+      "question": "Which function is used to serialize an object into a JSON string in Javascript?",
+      "options": [
+          {"answer": "JSON.stringify()", 
+           "isCorrect": false },
+
+          {"answer": "parse()", 
+           "isCorrect": true },
+          
+          {"answer": "convert()", 
+           "isCorrect": false }, 
+
+          {"answer": "None of the above", 
+           "isCorrect": false }
+      ]
+  },
+  {
+      "id":"5",
+      "question": "Which of the following keywords is used to define a variable in Javascript?",
+      "options":[
+          {"answer": "var", 
+           "isCorrect": false },
+
+          {"answer": "let", 
+           "isCorrect": false },
+          
+          {"answer": "var and let", 
+           "isCorrect": true }, 
+
+          {"answer": "None of the above", 
+           "isCorrect": false }
+      ]
+  },
+  {
+      "id":"6",
+    "question":"Which of the following methods can be used to display data in some form using Javascript?",
+    "options": [
+      {"answer": "document.write()", 
+      "isCorrect": false },
+
+     {"answer": "console.log()", 
+      "isCorrect": false },
+     
+     {"answer": "window.alert", 
+      "isCorrect": false }, 
+
+     {"answer": "All of the above", 
+      "isCorrect": true }
+   ]
+  },
+  {
+      "id":"7",
+      "question":"How can a datatype be declared to be a constant type?",
+      "options":[
+          {"answer": "const", 
+          "isCorrect": false },
+  
+         {"answer": "var", 
+          "isCorrect": false },
+         
+         {"answer": "let", 
+          "isCorrect": false }, 
+  
+         {"answer": "constant", 
+          "isCorrect": true }
+      ]
+  },
+  {
+      "id":"8",
+      "question":"Which of the following type of variable is visible only within a function where it is defined?",
+      "options":[
+          {"answer": "global variable", 
+          "isCorrect": false },
+  
+         {"answer": "local variable", 
+          "isCorrect": true },
+         
+         {"answer": "Both of the above", 
+          "isCorrect": false }, 
+  
+         {"answer": "None of the above", 
+          "isCorrect": false }
+      ]
+  },
+  {
+      "id":"9",
+      "question":"Which of the following is correct about features of JavaScript?",
+      "options":[
+          {"answer": "JAvascript is a lightweight, interpreted programming language", 
+          "isCorrect": false },
+  
+         {"answer": "javascript is designed for creating network-centric application", 
+          "isCorrect": false },
+         
+         {"answer": "JAvaScript is complementary to and integrated with Java", 
+          "isCorrect": false }, 
+  
+         {"answer": "All of the above", 
+          "isCorrect": true }
+      ]
+  },
+  {
+      "id":"10",
+      "question":"How can a datatype be declared to be a constant type?",
+      "options":[
+          {"answer": "const", 
+          "isCorrect": false },
+  
+         {"answer": "var", 
+          "isCorrect": false },
+         
+         {"answer": "let", 
+          "isCorrect": false }, 
+  
+         {"answer": "constant", 
+          "isCorrect": true }
+      ]
+  }
+]
+
+
